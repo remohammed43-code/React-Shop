@@ -51,3 +51,15 @@ Clone the repository:
 
 ```bash
 git clone YOUR_REPOSITORY_LINK
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+
+👨‍💻 Author
+
+Mohamad Rayyha
