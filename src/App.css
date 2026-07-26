@@ -1,0 +1,26 @@
+.cart-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+}
+
+.cart-item img {
+  border-radius: 10px;
+}
+
+.cart-item button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.cart-item button:hover {
+  opacity: 0.8;
+}.products {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
